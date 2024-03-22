@@ -1,0 +1,26 @@
+{
+  "name": "optioillum",
+  "version": "1.0.0",
+  "description": "spline interpolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OliverHauck/optioillum.git"
+  },
+  "keywords": [
+    "quidem",
+    "fugiat",
+    "interpolation",
+    "line",
+    "eveniet",
+    "illo"
+  ],
+  "author": "AbelardoRuecker",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
